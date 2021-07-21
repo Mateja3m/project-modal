@@ -11,7 +11,7 @@ body {
 
 .main {
   box-sizing: border-box;
-  border: 1px solid white;
+  border: 2px solid white;
   width: 20%;
   margin: 30px auto;
 }
@@ -36,11 +36,12 @@ h1 {
 .modal-container {
   margin: 60px auto;
   box-sizing: border-box;
-  border: 3px solid rgb(155, 107, 107);
-  width: 40%;
+  border: 2px solid white;
+  width: 50%;
+  box-shadow: 8px 10px;
   button {
     width: 40%;
-    margin: 2px 20% 2px 20%;
+    margin: 2px 30% 2px 30%;
     font-weight: bold;
   }
 }
