@@ -1,3 +1,3 @@
 # project-modal
 
-CSS practice creating modal
+SASS practice creating modal
